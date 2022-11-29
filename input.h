@@ -1,5 +1,5 @@
 //
-// Created by roseduan on 2022/6/13.
+// Created by egotist on 2022/6/13.
 //
 
 #ifndef SIMPLE_DB_C_INPUT_H
