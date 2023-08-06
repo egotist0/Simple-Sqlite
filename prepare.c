@@ -20,6 +20,7 @@ PrepareResult prepare_statement(InputBuffer* input_buffer,
 PrepareResult prepare_insert(InputBuffer* input_buffer, Statement* statement) {
   char* keyword = strtok(input_buffer->buffer, " ");
   char* id_string = strtok(NULL, " ");
+  
   char* username = strtok(NULL, " ");
   char* email = strtok(NULL, " ");
 
